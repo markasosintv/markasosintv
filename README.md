@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=MARKAS%20OSINT%20V&fontColor=ffffff&fontSize=40&animation=fadeIn)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Initializing+Profile...;Welcome+to+Markas+Osint+v;Github+markasosintv)](https://git.io/typing-svg)
+
 
 
 ### tentang github markas osint v  
