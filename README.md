@@ -8,6 +8,12 @@
 
 ### Hi, we are from the  markas osint-v team (viasec0129)
 
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=markasosintv&theme=onestar" alt="markasosintv" />
+  </a> 
+</p>
+
 ### tentang github markas osint v  
 
 > github ini berisi tools OSINT yang di bangun oleh **markas osint v**  
