@@ -26,8 +26,7 @@
   <img src="https://komarev.com/ghpvc/?username=markasosintv&label=Profile%20views&color=D7B899&style=flat" alt="markasosintv" /> 
 </p>
 
-jangan cuma di liat doang   
-**follow github ini** agar dapat info update terbaru !
+**⚠ Jangan cuma dilihat aja, follow Github-nya agar dapat info update terbaru! ⚠**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markasosintv&layout=compact&bg_color=000000&title_color=D7B899&text_color=ffffff&border_color=3E2723" />
