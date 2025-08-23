@@ -30,7 +30,7 @@ jangan cuma di liat doang
 **follow github ini** agar dapat info update terbaru !
 
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer&fontColor=ffffff)
 
 ---
 
