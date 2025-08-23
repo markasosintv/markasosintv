@@ -35,7 +35,7 @@ jangan cuma di liat doang
 
 ---
 
-# ⚙️ Tech & Skills
+# Tech & Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,github,kali,linux,redhat,py" />
@@ -48,7 +48,7 @@ jangan cuma di liat doang
 
 ---
 
-# 🛠 Tools & Favorite Stack
+# Tools & Favorite Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Brave-3E2723?style=for-the-badge&logo=Brave&logoColor=white" />
   <img src="https://img.shields.io/badge/Tor_Browser-D7B899?style=for-the-badge&logo=Tor-Browser&logoColor=3E2723" />
@@ -62,14 +62,14 @@ jangan cuma di liat doang
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markasosintv&show_icons=true&bg_color=000000&title_color=D7B899&text_color=ffffff&icon_color=B8860B&border_color=3E2723" />
 </p>
 
 ---
 
-# 📞 Contact
+# Contact
 <p align="center">
   <a href="https://t.me/viasec0129">
     <img src="https://img.shields.io/badge/Owner-@viasec0129-3E2723?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -84,7 +84,7 @@ jangan cuma di liat doang
 
 ---
 
-# 🏴 Motto
+#  Motto
 > focus on the world of OSINT (Open Source Intelligence).
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=D7B899&height=150&section=footer&fontColor=3E2723)
