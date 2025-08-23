@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Initializing+Profile...;Welcome+to+Markas+Osint+v;Github+markasosintv)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://i.top4top.io/p_35217o76m0.jpg" alt="Markas Osint V Banner" />
+  <img src="https://c.top4top.io/p_3522bvju50.jpg" alt="Markas Osint V Banner" />
 </p>
 
 ### Hi, we are from the  markas osint-v team (viasec0129)
