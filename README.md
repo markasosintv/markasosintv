@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=MARKAS%20OSINT%20V&fontColor=ffffff&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3E2723&height=200&section=header&text=MARKAS%20OSINT%20V&fontColor=6D4C41&fontSize=40&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Initializing+Profile...;Welcome+to+Markas+Osint+v;Github+markasosintv)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6D4C41&lines=Initializing+Profile...;Welcome+to+Markas+Osint+v;Github+markasosintv)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://c.top4top.io/p_3522bvju50.jpg" alt="Markas Osint V Banner" />
@@ -10,7 +10,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=markasosintv&theme=onestar" alt="markasosintv" />
+    <img src="https://github-profile-trophy.vercel.app/?username=markasosintv&theme=gruvbox" alt="markasosintv" />
   </a> 
 </p>
 
@@ -23,14 +23,14 @@
 > github ini berisi tools OSINT yang di bangun oleh **markas osint v**  
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=markasosintv&label=Profile%20views&color=0e75b6&style=flat" alt="markasosintv" /> 
+  <img src="https://komarev.com/ghpvc/?username=markasosintv&label=Profile%20views&color=6D4C41&style=flat" alt="markasosintv" /> 
 </p>
 
 jangan cuma di liat doang   
 **follow github ini** agar dapat info update terbaru !
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markasosintv&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markasosintv&layout=compact&bg_color=000000&title_color=6D4C41&text_color=ffffff&border_color=3E2723" />
 </p>
 
 ---
@@ -44,28 +44,28 @@ jangan cuma di liat doang
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=markasosintv&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=markasosintv&theme=dark&background=000000&ring=6D4C41&fire=6D4C41&currStreakLabel=6D4C41&currStreakNum=ffffff&sideNums=ffffff&dates=6D4C41&sideLabels=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
 
 # 🛠 Tools & Favorite Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
-  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brave-3E2723?style=for-the-badge&logo=Brave&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tor_Browser-6D4C41?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
+  <img src="https://img.shields.io/badge/tmux-3E2723?style=for-the-badge&logo=tmux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-6D4C41?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=6D4C41" />
+  <img src="https://img.shields.io/badge/Wireshark-3E2723?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/burpsuite-6D4C41?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/metasploit-3E2723?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
 ---
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markasosintv&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=markasosintv&show_icons=true&bg_color=000000&title_color=6D4C41&text_color=ffffff&icon_color=6D4C41&border_color=3E2723" />
 </p>
 
 ---
@@ -73,13 +73,13 @@ jangan cuma di liat doang
 # 📞 Contact
 <p align="center">
   <a href="https://t.me/viasec0129">
-    <img src="https://img.shields.io/badge/Owner-@viasec0129-black?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Owner-@viasec0129-3E2723?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://t.me/markasosintv">
-    <img src="https://img.shields.io/badge/Grup-markasosintv-black?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Grup-markasosintv-6D4C41?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://linktr.ee/linklengkapkami">
-    <img src="https://img.shields.io/badge/Linktree-Full_Link-black?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linktree-Full_Link-3E2723?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
 
@@ -88,4 +88,4 @@ jangan cuma di liat doang
 # 🏴 Motto
 > focus on the world of OSINT (Open Source Intelligence).
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=3E2723&height=150&section=footer&fontColor=6D4C41)
