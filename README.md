@@ -1,3 +1,19 @@
+<p align="center">
+  <svg width="100%" height="8" viewBox="0 0 1200 8" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="mint" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00FFC6"/><stop offset="100%" stop-color="#6A5CFF"/>
+      </linearGradient>
+    </defs>
+    <line x1="0" y1="4" x2="1200" y2="4"
+          stroke="url(#mint)" stroke-width="2"
+          stroke-dasharray="12 8">
+      <animate attributeName="stroke-dashoffset"
+               from="0" to="-240" dur="2.5s" repeatCount="indefinite"/>
+    </line>
+  </svg>
+</p>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D7B899&height=200&section=header&text=MARKAS%20OSINT%20V&fontColor=3E2723&fontSize=40&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B8860B&lines=Initializing+Profile...;Welcome+to+Markas+Osint+v;Github+markasosintv)](https://git.io/typing-svg)
