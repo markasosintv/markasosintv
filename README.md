@@ -1,34 +1,3 @@
-<!-- Wavy neon line -->
-<p align="center">
-  <svg width="100%" height="28" viewBox="0 0 1200 28" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%"   stop-color="#00E5FF"/>
-        <stop offset="50%"  stop-color="#7CFF00"/>
-        <stop offset="100%" stop-color="#FF00FF"/>
-      </linearGradient>
-      <filter id="softGlow">
-        <feGaussianBlur stdDeviation="4" result="b"/>
-        <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-      </filter>
-    </defs>
-
-    <!-- path gelombang -->
-    <path d="M0,14 C80,4 160,24 240,14
-             S400,4 480,14
-             S640,24 720,14
-             S880,4 960,14
-             S1120,24 1200,14"
-          fill="none" stroke="url(#rainbow)" stroke-width="4"
-          stroke-linecap="round" stroke-dasharray="22 12"
-          filter="url(#softGlow)">
-      <animate attributeName="stroke-dashoffset"
-               from="0" to="-500"
-               dur="4s" repeatCount="indefinite"/>
-    </path>
-  </svg>
-</p>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D7B899&height=200&section=header&text=MARKAS%20OSINT%20V&fontColor=3E2723&fontSize=40&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B8860B&lines=Initializing+Profile...;Welcome+to+Markas+Osint+v;Github+markasosintv)](https://git.io/typing-svg)
