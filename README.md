@@ -29,8 +29,9 @@
 jangan cuma di liat doang   
 **follow github ini** agar dapat info update terbaru !
 
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer&fontColor=ffffff)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markasosintv&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
+</p>
 
 ---
 
@@ -39,6 +40,11 @@ jangan cuma di liat doang
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,github,kali,linux,redhat,py" />
   </a>
+</p>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=markasosintv&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
@@ -81,3 +87,5 @@ jangan cuma di liat doang
 
 # 🏴 Motto
 > focus on the world of OSINT (Open Source Intelligence).
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer&fontColor=ffffff)
