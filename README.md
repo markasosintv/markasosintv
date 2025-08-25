@@ -76,10 +76,10 @@
   </a>
   <a href="https://t.me/markasosintv">
     <img src="https://img.shields.io/badge/Grup-markasosintv-D7B899?style=for-the-badge&logo=telegram&logoColor=3E2723" />
-  </a>
-  <a href="https://linktr.ee/linklengkapkami">
-    <img src="https://img.shields.io/badge/Linktree-Full_Link-B8860B?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
+  </a> 
+<a href="https://9o1kc.mssg.me/">
+    <img src="https://img.shields.io/badge/Mssg.me-Full_Link-B8860B?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+</a>
   <a href="https://www.tiktok.com/@latest_news_team.markasv">
     <img src="https://img.shields.io/badge/TikTok-@latest_news_team.markasv-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
